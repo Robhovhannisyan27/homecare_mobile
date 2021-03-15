@@ -1,0 +1,6 @@
+export const LOGIN = 'LOGIN';
+export const SET_SERVICE = 'SET_SERVICE';
+export const SET_SERVICES = 'SET_SERVICES';
+export const SET_SUB_SERVICES = 'SET_SUB_SERVICES';
+export const SET_SUB_SERVICE = 'SET_SUB_SERVICE';
+export const SET_SERVICE_CATEGORIES = 'SET_SERVICE_CATEGORIES';

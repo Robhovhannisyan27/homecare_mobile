@@ -1,0 +1,9 @@
+export const LIGHT_BLUE = '#76a5ee';
+export const BLUE = '#03A3D8';
+export const WHITE = '#ffffff';
+export const BACKGROUND_WHITE = '#F8F8F8';
+export const MILKY = 'rgba(216, 189, 118, 0.16)';
+export const GREY = '#53585A';
+export const LIGHT_GREY = '#969696';
+export const ORANGE = '#FBC55C';
+export const BLACK = '#1E201D';
